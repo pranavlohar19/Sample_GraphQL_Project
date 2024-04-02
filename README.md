@@ -1,1 +1,1 @@
-# Sample_GraphQL_Project
+This is a GraphQL-based project built with Flask and Graphene for managing products, their options, and units. It provides a flexible API for creating, updating, and querying product information.
